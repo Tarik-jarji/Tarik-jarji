@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tarek Jarji
+# 👋 Hi, I'm Tarik Jarji
 
 ## 🧠 Engineer | Full-Stack Developer | Tech Entrepreneur
 
